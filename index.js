@@ -85,7 +85,6 @@ function calculateSumOfNumbers (arr) {
   }
   checkForVowel("numbers");
 
-
   // Question: 5(b) Count the number  of vowels
   function countNumberOfVowels(string) {
     let formattedString = string.toLowerCase();
